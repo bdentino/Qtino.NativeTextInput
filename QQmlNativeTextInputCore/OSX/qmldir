@@ -1,0 +1,3 @@
+module Qtino.NativeTextInput
+
+NativeTextInput     1.0 NativeTextInput.qml

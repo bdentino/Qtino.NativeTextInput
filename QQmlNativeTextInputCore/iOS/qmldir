@@ -1,0 +1,4 @@
+module Qtino.NativeTextInput
+plugin NativeTextInputPlugin
+classname NativeTextInputPlugin
+typeinfo plugins.qmltypes
