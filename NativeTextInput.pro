@@ -3,5 +3,5 @@ TEMPLATE = subdirs
 CONFIG += ordered
 
 SUBDIRS += \
-    QQmlNativeTextInputCore \
+    NativeTextInputCore \
     Examples/TextEditTest
